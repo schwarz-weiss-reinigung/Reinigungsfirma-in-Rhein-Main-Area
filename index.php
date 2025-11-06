@@ -292,7 +292,7 @@ $kontakt_url = "https://reinheit-blick.de/kontakt/";
 
                 <p>Ob Unterhaltsreinigung für Bürogebäude, Grundreinigung nach Umbaumaßnahmen oder spezialisierte Praxisreinigung – das Leistungsspektrum ist breit gefächert. Besonders geschätzt wird die Transparenz: Kunden erhalten klare Angebote ohne versteckte Kosten, und die Reinigungskräfte sind geschult, freundlich und diskret.</p>
 
-                <p>Ein weiterer Pluspunkt: <a href="<?php echo htmlspecialchars($reinheit_blick_url); ?>" target="_blank" rel="noopener">Reinheit Blick</a> setzt auf umweltfreundliche Reinigungsmittel, die wirksam gegen Keime und Schmutz vorgehen, ohne Mensch oder Natur zu belasten. In Zeiten steigenden Umweltbewusstseins ist das für viele Unternehmen ein entscheidendes Kriterium.</p>
+                <p>Ein weiterer Pluspunkt: Reinheit Blick setzt auf umweltfreundliche Reinigungsmittel, die wirksam gegen Keime und Schmutz vorgehen, ohne Mensch oder Natur zu belasten. In Zeiten steigenden Umweltbewusstseins ist das für viele Unternehmen ein entscheidendes Kriterium.</p>
             </div>
 
             <h2>So finden Sie den richtigen Reinigungsdienst für Ihre Bedürfnisse</h2>
