@@ -23,6 +23,8 @@ $kontakt_url = "https://reinheit-blick.de/kontakt/";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <title><?php echo htmlspecialchars($meta_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
     <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
@@ -30,7 +32,9 @@ $kontakt_url = "https://reinheit-blick.de/kontakt/";
     <meta property="og:title" content="<?php echo htmlspecialchars($meta_title); ?>">
     <meta property="og:description" content="<?php echo htmlspecialchars($meta_description); ?>">
     <meta property="og:type" content="article">
-    <meta name="robots" content="index, follow">
+<!-- Robots & Indexing Tags -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
     <style>
         * {
             margin: 0;
