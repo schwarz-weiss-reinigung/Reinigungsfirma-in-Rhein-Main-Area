@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://reinheit-blick-4376f3ca6c98.herokuapp.com/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
