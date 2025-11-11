@@ -9,7 +9,7 @@
 // Meta-Informationen
 $meta_title = "Reinigungsdienste Rhein-Main: So finden Sie Profis"; // 50 Zeichen
 $meta_description = "Professionelle Reinigungsdienste in Rhein gesucht? Erfahren Sie, worauf es bei der Auswahl ankommt & warum lokale Experten den Unterschied machen."; // 154 Zeichen
-$canonical_url = "https://ihredomain.de/reinigungsdienste-rhein-main";
+$canonical_url = "https://reinheit-blick-4376f3ca6c98.herokuapp.com/";
 $publish_date = date('Y-m-d');
 $author = "Redaktion";
 
